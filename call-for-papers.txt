@@ -1,0 +1,59 @@
+Subject: Call for Papers | IJCNN 2027 Special Session on Securing Next-Generation AI | Deadline: January 31, 2027
+
+Dear Colleagues,
+
+We are pleased to invite you to submit original research contributions to the following Special Session at IJCNN 2027:
+
+SECURING THE NEXT GENERATION OF AI: AGENTIC, COLLABORATIVE AND MULTIMODAL INTELLIGENCE
+
+International Joint Conference on Neural Networks (IJCNN 2027)
+June 14–18, 2027 | Cape Town, South Africa
+
+Paper submission deadline: January 31, 2027
+
+SCOPE AND MOTIVATION
+
+As AI evolves beyond isolated predictive models toward autonomous agents, conversational systems, collaborative learning architectures, and multimodal intelligence, new attack surfaces and trust dependencies emerge.
+
+This Special Session aims to bring together researchers and practitioners working on the security, robustness, and trustworthiness of next-generation AI systems, as well as their innovative applications to cybersecurity. Theoretical, methodological, and experimental contributions are welcome, including novel threat models, neural architectures, benchmarks, and reproducible evaluations.
+
+TOPICS OF INTEREST
+
+- Security and adversarial robustness of neural and agentic AI systems.
+- Trustworthy coordination, communication, and decision-making in multi-agent systems.
+- Trustworthy conversational agents: user guidance, usability, transparency, safety, factual reliability, privacy, robustness, and resistance to adversarial attacks and manipulation across multi-turn interactions.
+- Secure, robust, and privacy-preserving cooperative and collaborative learning, including federated and decentralized settings.
+- Adversarial attacks and defenses in foundation models and LLM-based systems.
+- Security and robustness of computer vision, multimodal AI, and vision-language models.
+- Detection of deepfakes, synthetic media, and manipulated content.
+- AI-driven cyber threat detection, intelligence, and response.
+- Collaborative and multi-agent approaches to cybersecurity.
+- Knowledge-guided and neuro-symbolic methods for trustworthy AI.
+- Explainability, transparency, and auditability of neural and autonomous systems.
+- Provenance, traceability, and verification of AI decisions and actions.
+- Security assessment, adversarial benchmarking, and red teaming of AI systems.
+
+SUBMISSION AND PUBLICATION
+
+Papers must be submitted through Microsoft CMT as regular papers (Main Track), selecting “Securing the Next Generation of AI: Agentic, Collaborative and Multimodal Intelligence” as the primary Subject Area.
+
+All submissions will undergo the same peer-review process as regular conference papers. Accepted contributions will be included in the conference proceedings.
+
+Submission system: https://cmt3.research.microsoft.com/IJCNN2027
+Conference website: https://ijcnn.org/2027
+
+SPECIAL SESSION ORGANIZERS
+
+Giuseppe Fenza — University of Salerno, Italy
+Rida Khatoun — LTCI, Télécom Paris, Institut Polytechnique de Paris, France
+Omran Berjawi — LTCI, Télécom Paris, Institut Polytechnique de Paris, France
+Claudio Stanzione — Luiss Guido Carli University, Italy
+
+Contact: gfenza@unisa.it
+
+We look forward to receiving your contributions and would greatly appreciate your help in sharing this Call for Papers with interested colleagues and research communities.
+
+Best regards,
+The Special Session Organizers
+
+Apologies for any cross-posting.
